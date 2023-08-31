@@ -1,0 +1,1183 @@
+id,Name,Category_ID,Images Link
+1,Women,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women.svg
+2,Women's Handbags,1,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women's+Handbags.svg
+3,Backpacks,2,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Backpacks.svg
+4,Cosmetic Bags,2,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Cosmetic+Bags.svg
+5,Hobo Bags,2,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/HoboBags.svg
+6,Crossbody Bags,2,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/CrossBodyBag.svg
+7,Satchels,2,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/SatchelBag.svg
+8,Shoulder Bags,2,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/ShoulderBag.svg
+9,Tote Bags,2,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/ToteBag.svg
+10,Waist Bags & Fanny Packs,2,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/WaistBag-FannyPack.svg
+11,Messenger Bags,2,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/MessengerBag.svg
+12,Bucket Bags,2,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/BucketBag.svg
+13,Shoes,1,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-Shoes.svg
+14,Athletic Shoes,13,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-AthleticShoes.svg
+15,Boots,13,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-Boots.svg
+16,Fashion Sneakers,13,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-FashionSneakers.svg
+17,Flats,13,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Flats.svg
+18,Pumps,13,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Pumps.svg
+19,Sandals,13,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-Sandals.svg
+20,Slippers,13,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-Slippers.svg
+21,Atheltic Apparel,1,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-AthleticApparel.svg
+22,Jackets,21,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-Jacket.svg
+23,Jerseys,21,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-Jersey.svg
+24,Shorts,21,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Shorts.svg
+25,Socks,21,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Socks.svg
+26,Sports Bras,21,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/SportsBras.svg
+27,"Tops & Blouses",1,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Tops%26Blouses.svg
+28,Blouses,27,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Blouses.svg
+29,Button-down,27,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Button-down.svg
+30,Halters,27,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Halters.svg
+31,Knit Tops,27,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/KnitTops.svg
+32,Polo Shirts,27,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/PoloShirt.svg
+33,T-Shirts,27,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/T-shirt.svg
+34,Tunics,27,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Tunic.svg
+35,Wraps,27,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Wraps.svg
+36,Jewelry,1,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Jewellery.svg
+37,Bracelets,36,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Bracelets.svg
+38,Earrings,36,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Earrings.svg
+39,Necklaces,36,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Necklaces.svg
+40,Pins,36,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Pins.svg
+41,Rings,36,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Rings.svg
+42,Women's Accessories,1,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women'sAccessories.svg
+43,Cardholders,42,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Cardholders.svg
+44,Belts,42,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-Belts.svg
+45,Hair Accessories,42,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/HairAccessories.svg
+46,Hats,42,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-Hats.svg
+47,Sunglasses,42,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-Sunglasses.svg
+48,Wallets,42,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-Wallets.svg
+49,Watches,42,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Women-Watches.svg
+50,"Dresses",1,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Dresses.svg
+51,"Above Knee, Mini",50,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/AboveKnee-mini.svg
+52,High Low,50,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/HighLow.svg
+53,Maxi,50,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Maxi.svg
+54,Knee-length,50,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/KneeLength.svg
+55,Midi,50,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Midi.svg
+56,Jumpsuits & Rompers,50,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Jumpsuits%26Rompers.svg
+57,Sweaters,1,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Sweaters.svg
+58,Cardigans,57,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Cardigans.svg
+59,Collared,57,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Collared.svg
+60,Cowl Neck,57,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/CowlNeck.svg
+61,Crewneck,57,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/CrewnNeck.svg
+62,Full-zip,57,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/FullZip.svg
+63,Hooded,57,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Hooded.svg
+64,Ponchos,57,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Ponchos.svg
+65,V-neck,57,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/V-Neck.svg
+66,Coats & Jackets,1,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Coast%26Jackets.svg
+67,Fleece Jackets,66,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/FleeceJackets.svg
+68,Jean Jackets,66,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/JeanJackets.svg
+69,Motorcycle Jackets,66,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/MotorcycleJackets.svg
+70,Parkas,66,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Parkas.svg
+71,Peacoats,66,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Peacoats.svg
+72,Puffers,66,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Puffers.svg
+73,Trench Coats,66,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/TrenchCoats.svg
+74,Vests,66,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Vests.svg
+75,Windbreakers,66,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Windbreakers.svg
+76,Jeans,1,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Jeans.svg
+77,Boot Cut,76,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/BootCut.svg
+78,Boyfriend,76,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Boyfriend.svg
+79,Flare,76,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Flare.svg
+80,Leggings & Jeggings,76,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Leggings%26Jeggings.svg
+81,Overalls,76,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Overalls.svg
+82,Straight Leg,76,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Straight-leg.svg
+83,Wide-Leg,76,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Wide-leg.svg
+84,Men,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men.svg
+85,Men's Accessories,84,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Accessories.svg
+86,Belts,85,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Belts.svg
+87,Hats,85,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Hats.svg
+88,Sunglasses,85,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Sunglasses.svg
+89,Ties,85,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Ties.svg
+90,Wallets,85,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Wallets.svg
+91,Watches,85,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Watches.svg
+92,Shoes,84,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Shoes.svg
+93,Athletic,92,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Athletic.svg
+94,Boots,92,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Boots.svg
+95,Fashion Sneakers,92,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-FashionSneakers.svg
+96,Outdoor,92,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Outdoor.svg
+97,Oxfords,92,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Oxford.svg
+98,Sandals,92,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Sandals.svg
+99,Slippers,92,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Slippers.svg
+100,Work & Safety,92,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Work%26Safety.svg
+101,Athletic Apparel,84,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-AthleticApparel.svg
+102,Jackets,101,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Jackets.svg
+103,Jerseys,101,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Men-Jerseys.svg
+104,Pants,101,0
+105,Shorts,101,0
+106,Socks,101,0
+107,Vests,101,0
+108,Tops ,84,0
+109,Button-Front,108,0
+110,Dress Shirts,108,0
+111,Hawaiian,108,0
+112,Henleys,108,0
+113,T-Shirts,108,0
+114,Tanks,108,0
+115,Shorts,84,0
+116,Athletic,115,0
+117,"Board, Surf",115,0
+118,Cargo,115,0
+119,"Carpenter, Utility",115,0
+120,Casual Shorts,115,0
+121,Corduroys,115,0
+122,Denim,115,0
+123,Dress Shorts,115,0
+124,"Khakis, Chinos",115,0
+125,Jeans,84,0
+126,"Baggy, Loose",125,0
+127,Boot Cut,125,0
+128,Cargo,125,0
+129,Carpenter,125,0
+130,"Classic, Straight Leg",125,0
+131,Overalls,125,0
+132,Relaxed,125,0
+133,Sweats & Hoodies,84,0
+134,Hoodies,133,0
+135,"Sweatshirt, Pullover",133,0
+136,Sweat Pants,133,0
+137,Sweatsuits,133,0
+138,Track Jackets,133,0
+139,Sweaters,84,0
+140,Cardigan,139,0
+141,Crewneck,139,0
+142,Full Zip,139,0
+143,Polo,139,0
+144,Turtleneck,139,0
+145,V-neck,139,0
+146,Vest,139,0
+147,Coats & Jackets,84,0
+148,Fleece Jackets,147,0
+149,Flight/Bomber Jackets,147,0
+150,Jean Jackets,147,0
+151,Motorcycle Jackets,147,0
+152,Parkas,147,0
+153,Puffers,147,0
+154,Rainwear,147,0
+155,Vests,147,0
+156,Windbreakers,147,0
+157,Jewelry,84,0
+158,Boot Cut,157,0
+159,Boyfriend,157,0
+160,Flare,157,0
+161,Leggings & Jeggings,157,0
+162,Overalls,157,0
+163,Straight Leg,157,0
+164,Wide-Leg,157,0
+165,Electronics,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Electronics.svg
+166,Cell Phones & Accessories,165,0
+167,Batteries,166,0
+168,Cell Phone Accessories,166,0
+169,Cell Phones & Smartphones,166,0
+170,Headsets,166,0
+171,Screen Protectors,166,0
+172,Wireless Cell Phone Chargers,166,0
+173,Computers & Laptops,165,0
+174,Computer Accessories,173,0
+175,Monitors & Screens,173,0
+176,Networking & Connectivity,173,0
+177,Tablets & E-Readers,165,0
+178,iPad/Tablet/Ebook Readers,177,0
+179,Tablet Accessories,177,0
+180,Video Games & Consoles,165,0
+181,Accessories,180,0
+182,Consoles,180,0
+183,Games,180,0
+184,Interactive Gaming Figures,180,0
+185,Interactive Video Game Cards,180,0
+186,PC Gaming,180,0
+187,Prepaid Gaming Cards,180,0
+188,Replacement Parts & Tools,180,0
+189,Strategy Guides,180,0
+190,Wearables,165,0
+191,Fitness Trackers,190,0
+192,Smart Watches,190,0
+193,Smart Watch Accessories,190,0
+194,Headphones & MP3 Players,165,0
+195,Bluetooth Headphones,194,0
+196,Headphones,194,0
+197,MP3 Players,194,0
+198,Cameras & Photography,164,0
+199,Camcorders,198,0
+200,Camera & Photo Accessories,198,0
+201,Digital Cameras,198,0
+202,Film & Polaroid Cameras,198,0
+203,Media,165,0
+204,Blu-ray,203,0
+205,CD,203,0
+206,DVD,203,0
+207,VHS,203,0
+208,Home Audio,165,0
+209,Audio Accessories,208,0
+210,Bluetooth Speakers,208,0
+211,Docking Stations,208,0
+212,Portable Stereos & Boomboxes,208,0
+213,Radios,208,0
+214,Studio Recording Equipment,208,0
+215,TV & Video,165,0
+216,DVRs,215,0
+217,Gadgets,215,0
+218,Other Home Audio,215,0
+219,Streaming Devices,215,0
+220,Televisions,215,0
+221,Toys,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Toys.svg
+222,Collectibles & Hobbies,221,0
+223,Autographs,222,0
+224,Dolls,222,0
+225,Figurines,222,0
+226,Glass,222,0
+227,Model Vehicles,222,0
+228,Pins,222,0
+229,Porcelain,222,0
+230,Souvenirs & Memorabilia,222,0
+231,Squishies,222,0
+232,Action Figures & Accessories,221,0
+233,Action Figures,232,0
+234,Action Figure Accessories,232,0
+235,Action Figure Playsets,232,0
+236,Dolls & Accessories,221,0
+237,Baby Dolls,236,0
+238,Doll Accessories,236,0
+239,Doll Clothes,236,0
+240,Dollhouse Furniture & Accessories,236,0
+241,Dollhouses & Play Sets,236,0
+242,Fashion Dolls,236,0
+243,Interactive Dolls & Pets,236,0
+244,Mini Dolls & Playsets,236,0
+245,Play Animals,236,0
+246,Vintage & Antique Toys,221,0
+247,Antique Toys,246,0
+248,Action Figures,246,0
+249,Animals,246,0
+250,Blocks,246,0
+251,Cars,246,0
+252,Children,246,0
+253,Dolls,246,0
+254,Electronics,246,0
+255,Games,246,0
+256,Puzzles,246,0
+257,Sports,246,0
+258,Trading Cards,221,0
+259,Booster Packs,258,0
+260,Trading Card Boxes,258,0
+261,Trading Card Decks,258,0
+262,Single Cards,258,0
+263,Trading Card Tins,258,0
+264,Sports Trading Cards,221,0
+265,Auto Racing Trading Cards,264,0
+266,Baseball Trading Cards,264,0
+267,Basketball Trading Cards,264,0
+268,Boxing Trading Cards,264,0
+269,Football Trading Cards,264,0
+270,Hockey Trading Cards,264,0
+271,Soccer Trading Cards,264,0
+272,Wrestling Trading Cards,264,0
+273,Stuffed Animals & Plush,221,0
+274,Beanbag Plushies,273,0
+275,Plush Figures,273,0
+276,Plush Puppets,273,0
+277,Plush Purses & Accessories,273,0
+278,Stuffed Animals,273,0
+279,Stuffed Animal Accessories,273,0
+280,Building Toys,221,0
+281,Building Kit Accessories,280,0
+282,Magnetic Construction,280,0
+283,Stacking Blocks,280,0
+284,Wooden Blocks,280,0
+285,Arts & Crafts,221,0
+286,Aprons & Smocks,285,0
+287,"Clay, Dough & Pottery Kits",285,0
+288,Craft Kits,285,0
+289,Drawing & Coloring,285,0
+290,Easels & Art Tables,285,0
+291,Jewelry & Bead Kits,285,0
+292,Kids Scissors,285,0
+293,Stickers,285,0
+294,Games & Puzzles,221,0
+295,3-D Puzzles,294,0
+296,Board Games,294,0
+297,Card Games,294,0
+298,Chess & Checkers,294,0
+299,Dice Games,294,0
+300,Jigsaw Puzzles,294,0
+301,Stacking Games,294,0
+302,Tile Games,294,0
+303,Wooden Puzzles,294,0
+304,Remote Control Toys & Vehicles,221,0
+305,Kids Drones & Flying Toys,304,0
+306,Play Vehicles,304,0
+307,Racetracks & Playsets,304,0
+308,Remote Control Vehicles & Animals,304,0
+309,Robotics,304,0
+310,Toy Vehicle Accessories,304,0
+311,Trains & Train Sets,304,0
+312,Home,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Home.svg
+313,Kitchen Dining,312,0
+314,Kitchen Bakeware,313,0
+315,Kitchen Bar & Wine Accessories,313,0
+316,Kitchen Barware,313,0
+317,Kitchen Coffee & Espresso Makers,313,0
+318,Kitchen Cookware,313,0
+319,Kitchen Dinnerware,313,0
+320,Kitchen Drinkware,313,0
+321,Kitchen Flatware,313,0
+322,Kitchen Small Appliances,313,0
+323,Kitchen Tea & Accessories,313,0
+324,Kitchen Utensils,313,0
+325,Home Decor ,312,0
+326,Aromatherapy Diffusers,325,0
+327,Baskets,325,0
+328,Decorative Pillows,325,0
+329,Home Decor Accents,325,0
+330,Home Fragrance,325,0
+331,Tapestries,325,0
+332,Window Treatments,325,0
+333,Seasonal Decor,312,0
+334,"Seasonal Decor,Birthday",333,0
+335,Christmas,333,0
+336,Day of the Dead,333,0
+337,Easter,333,0
+338,Halloween,333,0
+339,Patriotic,333,0
+340,St. Patrick's Day,333,0
+341,Thanksgiving,333,0
+342,Valentine's Day,333,0
+343,Home Appliances,312,0
+344,"Home Appliances,Air Conditioners",343,0
+345,Air Purifiers,343,0
+346,Fans,343,0
+347,Humidifiers,343,0
+348,Kitchen Appliances,343,0
+349,Refrigerators,343,0
+350,Bedding,312,0
+351,Bed Pillows,350,0
+352,Mattress Pads,350,0
+353,Quilts,350,0
+354,Storage & Organization,312,0
+355,Bathroom Storage & Organization,354,0
+356,Clothing & Closet Storage,354,0
+357,Garage Storage & Organization,354,0
+358,Jewelry Boxes & Organizers,354,0
+359,Laundry Storage & Organization,354,0
+360,Trash & Recycling,354,0
+361,Cleaning Supplies,312,0
+362,Air Fresheners,361,0
+363,Brushes,361,0
+364,Dusting,361,0
+365,Gloves,361,0
+366,Household Cleaners,361,0
+367,Mopping,361,0
+368,Paper Towels,361,0
+369,Sweeping,361,0
+370,Trash Bags,361,0
+371,Artwork,312,0
+372,Drawings,371,0
+373,Paintings,371,0
+374,Photographs,371,0
+375,Furniture,312,0
+376,Bathroom Furniture,375,0
+377,Bedroom Furniture,375,0
+378,Home Bar Furniture,375,0
+379,Home Entertainment Furniture,375,0
+380,Home Office Furniture,375,0
+381,Living Room Furniture,375,0
+382,Replacement Parts,375,0
+383,Bath,312,0
+384,Bath Linen Sets,383,0
+385,Bath Rugs,383,0
+386,Bathroom Accessories,383,0
+387,Bathroom Furniture Sets,383,0
+388,Bathroom Shelves,383,0
+389,Towels,383,0
+390,Vintage,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Vintage.svg
+391,Bags & Purses,390,0
+392,Change Purses,391,0
+393,Clutches,391,0
+394,Diaper Bags,391,0
+395,Formal,391,0
+396,Handbags,391,0
+397,Pouches,391,0
+398,Purses,391,0
+399,Totes,391,0
+400,Antiques,390,0
+401,100 Years Or Older,400,0
+402,50 to 75 Years,400,0
+403,75 to 100 Years,400,0
+404,Bags & Purses,400,0
+405,Books,400,0
+406,Collectibles,400,0
+407,Electronics,400,0
+408,Home Decor,400,0
+409,Jewelry,400,0
+410,Jewelry,390,0
+411,Bracelets,410,0
+412,Brooches,410,0
+413,Earrings,410,0
+414,Necklaces,410,0
+415,Pendants,410,0
+416,Rings,410,0
+417,Watches,410,0
+418,Electronics,390,0
+419,Cameras,418,0
+420,Clocks,418,0
+421,Games,418,0
+422,Radios,418,0
+423,Telephones,418,0
+424,Televisions,418,0
+425,Video Games,418,0
+426,Accessories,390,0
+427,Buckles,426,0
+428,Cuff Links,426,0
+429,Eyewear,426,0
+430,Gloves,426,0
+431,Hats,426,0
+432,Keychains,426,0
+433,Scarves,426,0
+434,Shoes,426,0
+435,Wallets,426,0
+436,Serving Pieces,390,0
+437,Butter Dishes,436,0
+438,Casserole,436,0
+439,Cream & Sugar Set,436,0
+440,Flatware,436,0
+441,Mugs,436,0
+442,Pitchers,436,0
+443,Salt & Pepper Shakers,436,0
+444,Teacups,436,0
+445,Teapots,436,0
+446,Tumblers,436,0
+447,Supplies,390,0
+448,Bead,447,0
+449,Button,447,0
+450,Cabochon,447,0
+451,Chain,447,0
+452,Charm,447,0
+453,Fabric,447,0
+454,Finding,447,0
+455,Pattern,447,0
+456,Yarn,447,0
+457,Clothing,390,0
+458,Baby,457,0
+459,Corsets,457,0
+460,Dresses,457,0
+461,Jackets,457,0
+462,Shirts,457,0
+463,Shorts,457,0
+464,Sweater,457,0
+465,Swimwear,457,0
+466,T-Shirts,457,0
+467,Houseware,390,0
+468,Bowls,467,0
+469,Ceramics,467,0
+470,Coasters,467,0
+471,Cups,467,0
+472,Glasses,467,0
+473,Lights,467,0
+474,Magnets,467,0
+475,Plates,467,0
+476,Beauty,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Beauty.svg
+477,Makeup,476,0
+478,Body,477,0
+479,Eyes,477,0
+480,Face,477,0
+481,Lips,477,0
+482,Makeup Palettes,477,0
+483,Makeup Remover,477,0
+484,Makeup Sets,477,0
+485,Nails,477,0
+486,Fragrances,476,0
+487,Kids,486,0
+488,Men,486,0
+489,Women,486,0
+490,Sets,486,0
+491,Skin Care,476,0
+492,Body,491,0
+493,Eyes,491,0
+494,Face,491,0
+495,Feet,491,0
+496,Lips,491,0
+497,Maternity,491,0
+498,Sets & Kits,491,0
+499,Sun,491,0
+500,Tools & Accessories,476,0
+501,Epilators,500,0
+502,Hair Styling Tools,500,0
+503,Mirrors,500,0
+504,Nail Tools,500,0
+505,Toiletry Kits,500,0
+506,Tweezers,500,0
+507,Waxing,500,0
+508,Hair Care,476,0
+509,Conditioners,508,0
+510,Hair & Scalp Treatments,508,0
+511,Hair Color,508,0
+512,Hair Loss Products,508,0
+513,Shampoo & Conditioner Sets,508,0
+514,Shampoo Plus Conditioner,508,0
+515,Shampoos,508,0
+516,Styling Products,508,0
+517,Bath & Body,476,0
+518,Bath,517,0
+519,Bathing Accessories,517,0
+520,Cleansers,517,0
+521,Sets,517,0
+522,Kids,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Kids.svg
+523,Girls Dresses,522,0
+524,Girls 0-24 mos,523,0
+525,Girls 2T-5T,523,0
+526,Girls (4+),523,0
+527,Girls Tops & T-Shirts,522,0
+528,Girls 0-24 mos,527,0
+529,Girls 2T-5T,527,0
+530,Girls (4+),527,0
+531,Girls Bottoms,522,0
+532,Girls 0-24 mos,531,0
+533,Girls 2T-5T,531,0
+534,Girls (4+),531,0
+535,Girls One-pieces,522,0
+536,Girls 0-24 mos,535,0
+537,Girls 2T-5T,535,0
+538,Girls Accessories,522,0
+539,Girls 0-24 mos,538,0
+540,Girls 2T-5T,538,0
+541,Girls (4+),538,0
+542,Girls Shoes,522,0
+543,Girls 0-24 mos,542,0
+544,Girls 2T-5T,542,0
+545,Girls (4+),542,0
+546,Boys Tops & t-shirts,522,0
+547,Boys 0-24 mos,546,0
+548,Boys 2T-5T,546,0
+549,Boys (4+),546,0
+550,Boys Bottoms,522,0
+551,Boys 0-24 mos,550,0
+552,Boys 2T-5T,550,0
+553,Boys (4+),550,0
+554,Boys One-pieces,522,0
+555,Boys 0-24 mos,554,0
+556,Boys 2T-5T,554,0
+557,Boys Accessories,522,0
+558,Boys 0-24 mos,557,0
+559,Boys 2T-5T,557,0
+560,Boys (4+),557,0
+561,Boys Shoes,522,0
+562,Boys 0-24 mos,561,0
+563,Boys 2T-5T,561,0
+564,Boys (4+),561,0
+565,Sports,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Sports.svg
+566,Outdoor,565,0
+567,Boating,566,0
+568,Camping,566,0
+569,Cycling,566,0
+570,Indoor/Outdoor Games,566,0
+571,Water Sports,566,0
+572,Exercise,565,0
+573,Athletic Training,572,0
+574,Bowling,572,0
+575,Boxing & MMA,572,0
+576,Dance/Ballet,572,0
+577,Fitness Accessories,572,0
+578,Fitness Technology,572,0
+579,Strength Training,572,0
+580,Track & Field,572,0
+581,Yoga,572,0
+582,Fan Shop,565,0
+583,MLB,582,0
+584,NBA,582,0
+585,NCAA,582,0
+586,NFL,582,0
+587,NHL,582,0
+588,Team Sports,565,0
+589,Badminton,588,0
+590,Baseball,588,0
+591,Basketball,588,0
+592,Football,588,0
+593,Hockey,588,0
+594,Lacrosse,588,0
+595,Soccer,588,0
+596,Tennis & Racquets,588,0
+597,Volleyball,588,0
+598,Golf,565,0
+599,Electronics,598,0
+600,Golf Apparel,598,0
+601,Golf Bags,598,0
+602,Golf Balls,598,0
+603,Golf Shoes,598,0
+604,Men's Golf Clubs,598,0
+605,Women's Golf Clubs,598,0
+606,Apparel,565,0
+607,Accessories,606,0
+608,Boys,606,0
+609,Girls,606,0
+610,Men,606,0
+611,Women,606,0
+612,Footwear,565,0
+613,Cleats,612,0
+614,Kids,612,0
+615,Men,612,0
+616,Women,612,0
+617,Handmade,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Handmade.svg
+618,Accessories,617,0
+619,Charm,618,0
+620,Gloves,618,0
+621,Hair,618,0
+622,Keychain,618,0
+623,Lanyard,618,0
+624,Men,618,0
+625,Patch,618,0
+626,Pin,618,0
+627,Pinback Button,618,0
+628,Scarf,618,0
+629,Paper Goods,617,0
+630,Calendars,629,0
+631,Cards,629,0
+632,Gift Wrap,629,0
+633,Journals,629,0
+634,Notebooks,629,0
+635,Papermaking,629,0
+636,Scrapbooking,629,0
+637,Stationery,629,0
+638,Stickers,629,0
+639,Clothing,617,0
+640,Children,639,0
+641,Corsets,639,0
+642,Costume,639,0
+643,Dresses,639,0
+644,Lingerie,639,0
+645,Shirts,639,0
+646,Shoes,639,0
+647,T-Shirts,639,0
+648,Women,639,0
+649,Bags & Purses,617,0
+650,Backpacks,649,0
+651,Clutches,649,0
+652,Hip Bags,649,0
+653,Laptop Bags,649,0
+654,Messenger Bags,649,0
+655,Pouches,649,0
+656,Purses,649,0
+657,Totes,649,0
+658,Wristlets,649,0
+659,Jewellery,617,0
+660,Books & Zines,659,0
+661,Music,617,0
+662,Case,661,0
+663,Equipment,661,0
+664,Instruments,661,0
+665,Posters,661,0
+666,Tapes,661,0
+667,Vinyl,661,0
+668,Art,617,0
+669,Drawings,668,0
+670,Fiber Art,668,0
+671,Illustration,668,0
+672,Mixed Media,668,0
+673,Photography,668,0
+674,Printmaking,668,0
+675,Sculptures,668,0
+676,Wedding,617,0
+677,Accessories,676,0
+678,Bouquets,676,0
+679,Cake Toppers,676,0
+680,Clothing,676,0
+681,Decorations,676,0
+682,Favors,676,0
+683,Guest Books,676,0
+684,Invitations,676,0
+685,Jewelry,676,0
+686,Children,617,0
+687,Accessories,686,0
+688,Art,686,0
+689,Baby,686,0
+690,Clothing,686,0
+691,Furniture,686,0
+692,Houseware,686,0
+693,Jewelry,686,0
+694,Toddler,686,0
+695,Toys,686,0
+696,Office,,0
+697,Desk Organizer,696,0
+698,Bookends,697,0
+699,Business Card Holders,697,0
+700,Desk Organizers,697,0
+701,Desk Trays,697,0
+702,Desk Drawer Organizers,697,0
+703,File Organizers,697,0
+704,Magazine Holders,697,0
+705,Wall Files,697,0
+706,Folders & Filing,696,0
+707,Accordion Folders,706,0
+708,Classification Folders,706,0
+709,Filing Folders,706,0
+710,Hanging File Folders,706,0
+711,Pocket Folders,706,0
+712,Ink & Toner,696,0
+713,Ink Cartidges,712,0
+714,Ink Refills,712,0
+715,Ink Ribbons,712,0
+716,Toner Cartridges,712,0
+717,Toner Refills,712,0
+718,Markers,696,0
+719,Alcohol-Based Markers,718,0
+720,Brush Markers,718,0
+721,Dry Erase Markers,718,0
+722,Dual Tip Art Markers,718,0
+723,Paint Markers,718,0
+724,Permanent Markers,718,0
+725,Washable Markers,718,0
+726,Marker Refills,718,0
+727,Notebooks & Writing Pads,696,0
+728,Address Books,727,0
+729,Composition Books,727,0
+730,Journals,727,0
+731,Note Pads,727,0
+732,Notebooks,727,0
+733,Writing Pads,727,0
+734,Office Supplies,696,0
+735,Binder Clips,734,0
+736,Clipboards,734,0
+737,Paper Clips,734,0
+738,Planners,734,0
+739,Post-it Sticky Notes,734,0
+740,Push Pins,734,0
+741,Scotch Tape,734,0
+742,Sheet Protectors,734,0
+743,Staplers,734,0
+744,Tape Dispensers,734,0
+745,Whiteboards,734,0
+746,Paper,696,0
+747,Cardstock,746,0
+748,Cash Register Rolls,746,0
+749,Certificate Paper,746,0
+750,Construction Paper,746,0
+751,Copy & Multipurpose Paper,746,0
+752,Filler Paper,746,0
+753,Graph Paper,746,0
+754,Photo Paper,746,0
+755,Pens,696,0
+756,Retractable Pens,755,0
+757,Calligraphy Pens,755,0
+758,Ballpoint Pens,755,0
+759,Rollerball Pens,755,0
+760,Felt Tip Pens,755,0
+761,Fineliner Pens,755,0
+762,Fountain Pens,755,0
+763,Gel Pens,755,0
+764,Pen Refills,755,0
+765,School Supplies,696,0
+766,Binders,765,0
+767,Binding Covers,765,0
+768,Binding Spines,765,0
+769,Calculators,765,0
+770,Glue Sticks,765,0
+771,Highlighters,765,0
+772,Index Cards,765,0
+773,Pencil Sharpeners,765,0
+774,Protractors,765,0
+775,Rulers,765,0
+776,Scissors,765,0
+777,Shipping Supplies,696,0
+778,Address Labels,777,0
+779,Business Envelopes,777,0
+780,Catalog Envelopes,777,0
+781,Corrugated Mailers,777,0
+782,Double Sided Tape,777,0
+783,Envelope Sealers,777,0
+784,Invitiation Envelopes,777,0
+785,Letter Openers,777,0
+786,Shipping Boxes,777,0
+787,Shipping Labels,777,0
+788,Window Envelopes,777,0
+789,Tapes & adhesive,696,0
+790,Duct Tape,789,0
+791,Electrical Tape,789,0
+792,Masking Tape,789,0
+793,Mounting Tape,789,0
+794,Painters Tape,789,0
+795,Pet Supplies,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/PetSupplies.svg
+796,Aquarium & Fish Supplies,795,0
+797,Air Pumps,796,0
+798,Aquarium Decor,796,0
+799,Aquarium Heaters,796,0
+800,Aquarium Lighting,796,0
+801,Aquarium Water Cleaners,796,0
+802,Aquariums & Tanks,796,0
+803,Tank Filters,796,0
+804,Fish Bowls,796,0
+805,Fish Food,796,0
+806,Aquarium Gravel & Substrate,796,0
+807,Aquarium Water Pumps,796,0
+808,Bird Supplies,795,0
+809,Bird Cage Covers,808,0
+810,Bird Cages,808,0
+811,Bird Feed,808,0
+812,Bird Litter,808,0
+813,Bird Perches,808,0
+814,Bird Swings,808,0
+815,Bird Toys,808,0
+816,Cat Supplies,795,0
+817,Cat Beds,816,0
+818,Cat Brushes,816,0
+819,Cat Collars,816,0
+820,Cat Costumes,816,0
+821,Cat Harnesses,816,0
+822,Cat Leashes,816,0
+823,Cat Litter,816,0
+824,Cat Scratchers,816,0
+825,Cat Toys,816,0
+826,Cat Litter Boxes,816,0
+827,Dog Supplies,795,0
+828,Dog Beds,827,0
+829,Dog Blankets,827,0
+830,Dog Brushes,827,0
+831,Dog Collars,827,0
+832,Dog Costumes,827,0
+833,Dog Harnesses,827,0
+834,Dog Leashes,827,0
+835,Dog Tags,827,0
+836,Dog Toys,827,0
+837,Dog Waste Bags,827,0
+838,Pooper Scoopers,827,0
+839,Reptiles Supplies,795,0
+840,Reptile Food,839,0
+841,Reptile Heaters,839,0
+842,Reptile Terrariums,839,0
+843,Terrerium Decor,839,0
+844,Garden & Outdoor,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Garden%26Outdoor.svg
+845,Garden Décor,844,0
+846,Bird Feeders,845,0
+847,Pathway Lights,845,0
+848,Outdoor Spotlights,845,0
+849,Outdoor Fountains,845,0
+850,Garden Statues,845,0
+851,Garden Gazing Balls,845,0
+852,Patio Torches,845,0
+853,Landscape Rocks,845,0
+854,Outdoor Plant Vases,845,0
+855,Outdoor String Lights,845,0
+856,Wind Chimes,845,0
+857,Garden Hand Tools & Equipment,844,0
+858,Garden Axes,857,0
+859,Fruit Pickers,857,0
+860,Garden Wagons,857,0
+861,Garden Wheelbarrows,857,0
+862,Grass Shears,857,0
+863,Garden Hatchets,857,0
+864,Hedge Shears,857,0
+865,Lawn Rollers,857,0
+866,Manual Edgers,857,0
+867,Garden Rakes,857,0
+868,Shovels,857,0
+869,Garden Protective Gear,844,0
+870,Garden Aprons,869,0
+871,Garden Kneelers,869,0
+872,Gardening Boots,869,0
+873,Gardening Gloves,869,0
+874,Garden Structures & Shares,844,0
+875,Arbors & Arches,874,0
+876,Awnings,874,0
+877,Canopies,874,0
+878,Gazebos,874,0
+879,Outdoor Carports,874,0
+880,Outdoor Sheds,874,0
+881,Patio Umbrella Stands,874,0
+882,Patio Umbrellas,874,0
+883,Pergolas,874,0
+884,Tarps,874,0
+885,Tents,874,0
+886,Outdoor Heating & Cooking,844,0
+887,Barbecue Grills,886,0
+888,Charcoal,886,0
+889,Fire Pits,886,0
+890,Firewood,886,0
+891,Patio Heaters,886,0
+892,Picnic Baskets,886,0
+893,Smokers,886,0
+894,Outdoor Power Equipments,844,0
+895,Power Edgers,894,0
+896,Generators,894,0
+897,Hedge Trimmers,894,0
+898,Lawn Mowers,894,0
+899,Leaf Blowers,894,0
+900,Mulchers,894,0
+901,Pressure Washers,894,0
+902,Shredders,894,0
+903,Sweepers,894,0
+904,Outdoor Waste & Composting,844,0
+905,Compost Accelerators,904,0
+906,Compost Aerators,904,0
+907,Garden Compost Bins,904,0
+908,Garden Waste Bags,904,0
+909,Garden Waste Bins,904,0
+910,Patio Furniture,844,0
+911,Hammocks,910,0
+912,Patio Loungers,910,0
+913,Outdoor Daybeds,910,0
+914,Outdoor Furniture Covers,910,0
+915,Patio Benches,910,0
+916,Patio Chairs,910,0
+917,Patio Furniture Cushions,910,0
+918,Patio Furniture Sets,910,0
+919,Patio Tables,910,0
+920,Porch Swings,910,0
+921,Storage Deck Boxes,910,0
+922,Planting Accessories,844,0
+923,Garden Fertilizers,922,0
+924,Garden Hangers,922,0
+925,Garden Saucers,922,0
+926,Garden Sprayers,922,0
+927,Mulch,922,0
+928,Plant Labels,922,0
+929,Plant Ties & Supports,922,0
+930,Gardening Planters,922,0
+931,Gardening Pots,922,0
+932,Soil,922,0
+933,Window Planting Boxes,922,0
+934,Live Plants,844,0
+935,Annual Plants,934,0
+936,Flower Bulbs,934,0
+937,Fruit Plants,934,0
+938,Garden Bushes,934,0
+939,Hanging Plants,934,0
+940,Indoor Plants,934,0
+941,Perennial Plants,934,0
+942,Seeds,934,0
+943,Succulents,934,0
+944,Vegetable Plants,934,0
+945,Watering Equipments,844,0
+946,Hose Nozzles,945,0
+947,Hose Reels,945,0
+948,Water Hoses,945,0
+949,Lawn Sprinklers,945,0
+950,Rain Barrels,945,0
+951,Spigots,945,0
+952,Spray Guns,945,0
+953,Sprinkler Heads,945,0
+954,Water Pumps,945,0
+955,Watering Cans,945,0
+956,Arts & Crafts,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Art%26Crafts.svg
+957,Art Paper & Surfaces,956,0
+958,Canvas Pads,957,0
+959,Charcoal Paper,957,0
+960,Foam Boards,957,0
+961,Paint Canvas,957,0
+962,Poster Boards,957,0
+963,Sketch Paper,957,0
+964,Tracing Paper,957,0
+965,Watercolor Paper,957,0
+966,Art Pencils,956,0
+967,Colored Pencils,966,0
+968,Charcoal Pencils,966,0
+969,Charcoal Sticks,966,0
+970,Watercolor Pencils,966,0
+971,Ink & Calligraphy,956,0
+972,Alcohol Ink,971,0
+973,Calligraphy Ink Sets,971,0
+974,Drawing & Calligraphy Ink,971,0
+975,India Ink,971,0
+976,Pigment Powders,971,0
+977,Sumi Ink,971,0
+978,Paint,956,0
+979,Acrylic Paint,978,0
+980,Craft Paint,978,0
+981,Gouache,978,0
+982,Oil Paint,978,0
+983,Spray Paint,978,0
+984,Watercolor Paint,978,0
+985,Paint Accessories,956,0
+986,Artist Palettes,985,0
+987,Brush Cleaners,985,0
+988,Color Wheels,985,0
+989,Paint Droppers,985,0
+990,Paint Nozzles,985,0
+991,Paint Sponges,985,0
+992,Paint Storage Containers,985,0
+993,Paint Syringes,985,0
+994,Palette Knives,985,0
+995,Paint Brushes,956,0
+996,Acrylic Brushes,995,0
+997,Airbrushes,995,0
+998,Brush Sets,995,0
+999,Multi-Purpose Brushes,995,0
+1000,Oil Brushes,995,0
+1001,Specialty Brushes,995,0
+1002,Watercolor Brushes,995,0
+1003,Pastels,956,0
+1004,Oil Pastels,1003,0
+1005,Pastel Pencils,1003,0
+1006,Soft Pastels,1003,0
+1007,Wax Pastels & Crayons,1003,0
+1008,Medium & Varnishes,956,0
+1009,Acrylic Mediums,1008,0
+1010,Gessoes & Primers,1008,0
+1011,Masking Fluids & Frisket,1008,0
+1012,Oil Mediums,1008,0
+1013,Oil Painting Solvents,1008,0
+1014,Pouring Mediums,1008,0
+1015,Varnishes & Topcoats,1008,0
+1016,Watercolor Mediums,1008,0
+1017,Resin Art Supplies,956,0
+1018,Epoxy Resin,1017,0
+1019,Resin Fillers,1017,0
+1020,Resin Glitter,1017,0
+1021,Resin Molds,1017,0
+1022,Resin Pigments,1017,0
+1023,Stamping & Embossing,956,0
+1024,Cling Stamps,1023,0
+1025,Rubber Stamps,1023,0
+1026,Sealing Wax,1023,0
+1027,Stamp Handles,1023,0
+1028,Stamp Ink Pads,1023,0
+1029,Stamp Ink Refills,1023,0
+1030,Stamp Mounts,1023,0
+1031,Stamping Kits,1023,0
+1032,Tools,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Tools.svg
+1033,Electrical Tools,1032,0
+1034,Cable Cutters,1033,0
+1035,Cable Pliers,1033,0
+1036,Connector Tool Kits,1033,0
+1037,Electrical Tool Kits,1033,0
+1038,Electrical Tweezers,1033,0
+1039,Fusion Splicers & Cleavers,1033,0
+1040,Soldering Guns,1033,0
+1041,Soldering Irons,1033,0
+1042,Wire Stripping Machines,1033,0
+1043,Other Electrical Tools,1033,0
+1044,Fastening Tools,1032,0
+1045,C-Clamps,1044,0
+1046,Clamps,1044,0
+1047,Rivet Tools,1044,0
+1048,Staple Guns,1044,0
+1049,Staples,1044,0
+1050,Vises,1044,0
+1051,Hammer,1032,0
+1052,Ball-Peen Hammers,1051,0
+1053,Claw Hammers,1051,0
+1054,Mallets,1051,0
+1055,Sledgehammers,1051,0
+1056,Hand Tools,1032,0
+1057,Adapters & Extenders,1056,0
+1058,Caulking & Sealing Guns,1056,0
+1059,Chisels,1056,0
+1060,Drill Bits,1056,0
+1061,Pry Bars,1056,0
+1062,Punches,1056,0
+1063,Sockets,1056,0
+1064,Stud Finders,1056,0
+1065,Wire Strippers,1056,0
+1066,Measuring & Layouts,1032,0
+1067,Calipers,1066,0
+1068,Laser Levels,1066,0
+1069,Levels,1066,0
+1070,Measuring Tapes,1066,0
+1071,Measuring Wheels,1066,0
+1072,Range Meters,1066,0
+1073,Power Tools,1032,0
+1074,Hammer Drills,1073,0
+1075,Heat Guns,1073,0
+1076,Impact Drivers,1073,0
+1077,Impact Wrenches,1073,0
+1078,Nail Guns,1073,0
+1079,Power Drills,1073,0
+1080,Power Riveters,1073,0
+1081,Rotary Drills,1073,0
+1082,Screw Guns,1073,0
+1083,Safety Gears,1032,0
+1084,Disposable Coveralls,1083,0
+1085,Disposable Gloves,1083,0
+1086,Face Shields,1083,0
+1087,First Aid Kits,1083,0
+1088,Hard Hats,1083,0
+1089,PPE Kits,1083,0
+1090,Safety Glasses,1083,0
+1091,Safety Goggles,1083,0
+1092,Safety Vests,1083,0
+1093,Screwdriver,1032,0
+1094,Multi-bit Screwdrivers,1093,0
+1095,Phillips Screwdrivers,1093,0
+1096,Screwdriver Bits,1093,0
+1097,Screwdriver Sets,1093,0
+1098,Slotted Screwdrivers,1093,0
+1099,Tie Downs,1032,0
+1100,Bungee Cords,1099,0
+1101,Cargo Bars,1099,0
+1102,Cargo Nets,1099,0
+1103,D-Ring Anchors,1099,0
+1104,Load Binders,1099,0
+1105,Pulleys,1099,0
+1106,Ratchet Straps,1099,0
+1107,Tarp Straps,1099,0
+1108,Winch Straps,1099,0
+1109,Wrenches,1032,0
+1110,Adjustable Wrenches,1109,0
+1111,Box Wrenches,1109,0
+1112,Combination Wrenches,1109,0
+1113,Crescent Wrenches,1109,0
+1114,Open-End Wrenches,1109,0
+1115,Torque Wrenches,1109,0
+1116,Wrench Sets,1109,0
+1117,Books,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Books.svg
+1118,Fiction Books,1117,0
+1119,Sci-fi & Fantasy Books,1118,0
+1120,Comics,1118,0
+1121,Manga,1118,0
+1122,Romance Fiction Books,1118,0
+1123,Horror Fiction Books,1118,0
+1124,Western Books,1118,0
+1125,Historical Fiction Books,1118,0
+1126,Literary Fiction Books,1118,0
+1127,Mystery & Crime Fiction Books,1118,0
+1128,Thriller Fiction Books,1118,0
+1129,Fictional Children's Books,1118,0
+1130,Nonfiction Books,1117,0
+1131,Art Books,1130,0
+1132,Biographies & Memoirs,1130,0
+1133,Business & Finance Books,1130,0
+1134,Craft Books,1130,0
+1135,Photography Books,1130,0
+1136,Politics Books,1130,0
+1137,Religion & Spirituality Books,1130,0
+1138,Nonfiction Children's Books,1130,0
+1139,Refrence Books,1117,0
+1140,Dictionaries,1139,0
+1141,Thesauruses,1139,0
+1142,Encyclopedias,1139,0
+1143,Educational & Instructional Books,1139,0
+1144,Textbooks,1139,0
+1145,Cookbooks,1139,0
+1146,Magazines,1117,0
+1147,Lifestyle & Culture Magazines,1146,0
+1148,International Magazines,1146,0
+1149,Professional & Trade Magazines,1146,0
+1150,Others,,https://s3.us-east-2.amazonaws.com/dealfair.app/categoryImages/Others.svg
+1151,Daily & Travel Items,1150,0
+1152,Baby & Child Care,1151,0
+1153,Health Care,1151,0
+1154,Household Supplies,1151,0
+1155,Medical Supplies & Equipment,1151,0
+1156,Personal Care,1151,0
+1157,Sports Shaker Bottles,1151,0
+1158,Automotive,1150,0
+1159,Car Care,1158,0
+1160,Car Electronics & Accessories,1158,0
+1161,Exterior Accessories,1158,0
+1162,Interior Accessories,1158,0
+1163,Motorcycle & Powersports,1158,0
+1164,Performance Parts & Accessories,1158,0
+1165,Replacement Parts,1158,0
+1166,Tools & Equipment,1158,0
+1167,Musical Instruments,1150,0
+1168,Band & Orchestra,1167,0
+1169,Brass Instruments,1167,0
+1170,Guitars,1167,0
+1171,Instrument Accessories,1167,0
+1172,Keyboards,1167,0
+1173,Stringed Instruments,1167,0
+1174,Wind & Woodwind Instruments,1167,0
+1175,Travel & Luggage,1150,0
+1176,Carry-On Luggage,1175,0
+1177,Luggage Carts,1175,0
+1178,Luggage Scales,1175,0
+1179,Luggage Straps,1175,0
+1180,Luggage Tags,1175,0
+1181,Suitcases,1175,0
+1182,Travel Bags,1175,0
